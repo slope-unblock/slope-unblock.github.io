@@ -1,0 +1,24 @@
+{
+  "name": "Slope Unblocked",
+  "short_name": "Slope",
+  "description": "Browser arcade and practical Slope game guides.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1018",
+  "theme_color": "#0d1018",
+  "icons": [
+    {
+      "src": "assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
